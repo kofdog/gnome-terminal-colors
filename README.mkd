@@ -1,3 +1,5 @@
+Forked to change gruvbox-dark contrast from medium to hard. Really, all contrast options should be included as separate themes, but I'm lazy.
+
 Colorschemes for Gnome Terminal
 ========================================
 
